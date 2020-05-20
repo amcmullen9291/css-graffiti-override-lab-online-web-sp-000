@@ -9,6 +9,6 @@ display: none;
 background: none;
 }
 
-#tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7{
+#tag-2.parent, #tag-3.parent, #tag-4.parent, #tag-5.parent, #tag-6.parent, #tag-7.parent{
   background: none;
 }
