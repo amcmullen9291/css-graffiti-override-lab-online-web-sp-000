@@ -3,7 +3,7 @@
   display: none;
   background: none;
 }
-.wall, .parent{
+.wall, .parent, .slick {
 display: none;
 background: none;
 }
